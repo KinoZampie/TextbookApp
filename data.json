@@ -1,0 +1,36 @@
+{
+    "sources": {
+      "1": {
+        "source": "https://rule34.xxx/index.php?page=dapi&s=post&q=index&tags={}+score%3a>{}&pid={}&limit={}",
+        "pidRange": 400,
+        "tags": ["rating:safe"],
+        "score": 10,
+        "limit": 12,
+        "re": "file_url=\"(.*?)\""
+    }
+  },
+  "authIds": {
+    "1": {
+      "<consumer_key>": "kYfTUGqskuhKejJUSbig6zjmityGgxdj0iPVqnbgbxUXfgvbLw",
+      "<consumer_secret>": "TnZfyKLxOqtaE4aL0hYlxjz6WPRXc2LJrxtieoK97qhrVffKU5",
+      "<oauth_token>": "wiw7bifOU7JyD9d6HnTqDDsfB7eKzXhWc1UnAgisAfBV4NdN2f",
+      "<oauth_secret>": "ZTbcB4xEMpyFUZC3gPfyo5ClXKi2bGMxPoEstkyHd0W8wqOZbx"
+    }
+  },
+  "blogs": {
+    "universal": {
+      "authId": null,
+      "captions": null,
+      "links": null,
+      "blogTags": null,
+      "source": null
+    },
+    "furnest": {
+      "authId": "1",
+      "captions": null,
+      "links": null,
+      "blogTags": null,
+      "source": "1"
+    }
+  }
+}
